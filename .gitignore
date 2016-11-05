@@ -40,3 +40,4 @@ jspm_packages
 # Mikael Vester 2016-11-05
 */lib
 */.config.json
+*/.flows*
